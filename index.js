@@ -1,9 +1,10 @@
 
 
-function add() {
-  return 1 + 80;
+function add(a, b) {
+  //return 1 + 80;
+  return a + b;
 }
-add(a, b);
+//add(a, b);
 
 function subtract() {
   return 60 - 40;
