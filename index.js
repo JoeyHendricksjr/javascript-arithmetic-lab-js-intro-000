@@ -3,6 +3,7 @@
 function add() {
   return 1 + 80;
 }
+add(a, b);
 
 function subtract() {
   return 60 - 40;
