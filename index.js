@@ -53,7 +53,8 @@ function increment(n) {
 }
 
 function decrement(n) {
-  return n--;
+  let n = n--;
+  return n;
 }
 
 function makeInt(string) {
