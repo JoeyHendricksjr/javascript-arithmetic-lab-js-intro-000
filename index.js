@@ -23,3 +23,11 @@ function add5() {
 function divideBy3() {
   number /= 3;
 }
+
+function increment(n) {
+  return n++;
+}
+
+function decrement(n) {
+  return n--;
+}
