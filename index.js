@@ -1,4 +1,4 @@
-var number = 10
+
 
 function add() {
   return 1 + 80;
@@ -17,7 +17,7 @@ function divide() {
 }
 
 
-
+var number = 10;
 function add5() {
   number += 5
 }
