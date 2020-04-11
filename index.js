@@ -1,3 +1,5 @@
+var number = 10
+
 function add() {
   return 1 + 80;
 }
@@ -14,7 +16,7 @@ function divide() {
   return 5.0 / 2.5;
 }
 
-var number = 10
+
 
 function add5() {
   number += 5
