@@ -31,3 +31,11 @@ function increment(n) {
 function decrement(n) {
   return n--;
 }
+
+function makeInt(string) {
+  return parseInt(string);
+}
+
+function preserveDecimal(string) {
+  return parseFloat(string);
+}
